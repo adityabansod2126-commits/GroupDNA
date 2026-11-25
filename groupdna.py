@@ -2,7 +2,7 @@
 GroupDNA: Your WhatsApp Group Chat, Decoded
 ============================================
 Minor Project Brief - The Unlox Academy (Week 1)
-Author: Shital Patil
+Author: Aditya Bansod
 Submission Format: Python Fundamentals + NumPy
 Strict Constraints: NO pandas, NO matplotlib/seaborn, NO collections.Counter, NO regex.
 """
