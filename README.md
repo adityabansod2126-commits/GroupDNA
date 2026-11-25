@@ -143,6 +143,6 @@ python groupdna.py hostel_bois.txt
 ---
 
 ## 👤 Author
-- **Student Name:** Shital Patil
+- **Student Name:** Aditya Bansod
 - **Academy:** The Unlox Academy
 - **Course:** Applied Data Science (Minor Project 1)
